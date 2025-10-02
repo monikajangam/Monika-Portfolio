@@ -57,7 +57,7 @@ const Hero = () => {
             <div className="relative">
               <div className="w-80 h-80 rounded-2xl overflow-hidden shadow-2xl border-4 border-white/20">
                 <img 
-                  src="/images/profile-photo.jpg" 
+                  src="/Monika-Portfolio/images/profile-photo.jpg"
                   alt="Monika Jangam Prabhudev - Software Engineer"
                   className="w-full h-full object-cover"
                   onError={(e) => {
